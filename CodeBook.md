@@ -41,45 +41,15 @@ For each record it is provided:
 ##########################################################
 
 
-If you have questions about the data, please call Joan Doe at 555-5555 (office) or 555-6666 (pager) or email Joan_Doe@ucdavis.edu
+If you have questions about the data, please contact marcuspaget via github
 
-Field label:
 
-Study Investigator: Doe
+Name|Value
+:--|:--
+Field label|DOB
+Variable|date of birth
+Variable type|numeric
+Allowable values|01/01/1800-12/31/1926
+Comments|none
 
-Variable:
-
-Investigator
-
-Variable type:
-
-Character
-
-Allowable values:
-
-Study Investigator: Doe
-
-Comments:
-
- 
- 	 
-Field label:
-
-Breast Cancer in Elderly Women
-
-Variable:
-
-Form name
-
-Variable type:
-
-Character
-
-Allowable values:
-
-Breast Cancer in Elderly Women
-
-Comments:
-
- 
 
