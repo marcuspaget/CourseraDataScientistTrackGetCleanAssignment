@@ -37,8 +37,7 @@ $ sed 's/^ //' X_test.txt2 > X_test.txt
 ### Details
 
 
-The dataset includes the following files:
-=========================================
+This repository contains the following files:
 
 - README.md: this file
 
