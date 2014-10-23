@@ -9,6 +9,18 @@ sha1sum: 566456a9e02a23c2c0144674d9fa42a8b5390e71
 
 Please referencing the README.txt included in the zip and CodeBook.md in this repository.
 
+Preparation:
+
+I found under Linux it was required to strip the initial blank space and any double blank spaces. So test and train data could be loaded correctly.
+
+Here is the Unix shell code I used:
+
+$ sed 's/  / /g' X_train.txt > X_train.txt2
+$ sed 's/^ //' X_train.txt2 > X_train.txt
+
+$ sed 's/  / /g' X_test.txt > X_test.txt2
+$ sed 's/^ //' X_test.txt2 > X_test.txt
+
 ### Details
 
 

@@ -46,10 +46,17 @@ If you have questions about the data, please contact marcuspaget via github
 
 Name|Value
 :--|:--
-Field label|DOB
-Variable|date of birth
+Field label|activity
+Variable|Activity being performed
+Variable type|character
+Allowable values|WALKING,WALKING_UPSTAIRS,WALKING_DOWNSTAIRS,SITTING,STANDING,LAYING
+Comments|These details are specified in activity_labels.txt. Listing here to show they were added
+Field label|subject
+Variable|The person involved the tests
 Variable type|numeric
-Allowable values|01/01/1800-12/31/1926
-Comments|none
+Allowable values|1-99
+Comments|Person identified by a subject number
+
+For all other records please see features_info.txt in the zip
 
 
