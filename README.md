@@ -3,7 +3,9 @@
 This repository is by Mark Paget, for the John Hopkins School Coursera get-data-008 course project.
 
 Original data source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 Zip Last-Modified: Wed, 15 Jan 2014 14:20:28 GMT
+
 Zip sha1sum: 566456a9e02a23c2c0144674d9fa42a8b5390e71
 
 Please referencing the README.txt included in the zip and CodeBook.md in this repository.
